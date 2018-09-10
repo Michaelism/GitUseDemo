@@ -12,6 +12,7 @@
 		4BA213AF2146306100093099 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BA213AD2146306100093099 /* Main.storyboard */; };
 		4BA213B12146306300093099 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4BA213B02146306300093099 /* Assets.xcassets */; };
 		4BA213B42146306300093099 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4BA213B22146306300093099 /* LaunchScreen.storyboard */; };
+		4BA213BC2146374800093099 /* MapForItinerary.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4BA213BB2146374800093099 /* MapForItinerary.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		4BA213B02146306300093099 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		4BA213B32146306300093099 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4BA213B52146306300093099 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		4BA213BB2146374800093099 /* MapForItinerary.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapForItinerary.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				4BA213A92146306100093099 /* AppDelegate.swift */,
 				4BA213AB2146306100093099 /* ViewController.swift */,
+				4BA213BB2146374800093099 /* MapForItinerary.swift */,
 				4BA213AD2146306100093099 /* Main.storyboard */,
 				4BA213B02146306300093099 /* Assets.xcassets */,
 				4BA213B22146306300093099 /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			files = (
 				4BA213AC2146306100093099 /* ViewController.swift in Sources */,
 				4BA213AA2146306100093099 /* AppDelegate.swift in Sources */,
+				4BA213BC2146374800093099 /* MapForItinerary.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
